@@ -5,7 +5,7 @@ export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
 
-  router: { base: '/' },
+  router: { base: '/raf-maia.com/' },
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
