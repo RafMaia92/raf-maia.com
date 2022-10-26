@@ -15,6 +15,10 @@ $ npm run start
 
 # generate static project
 $ npm run generate
+
+$ npm install push-dir --save-dev
+
+$ npm run deploy
 ```
 
 For detailed explanation on how things work, check out the [documentation](https://nuxtjs.org).
