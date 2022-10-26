@@ -1,28 +1,27 @@
 const siteMetaInfo = {
-  title: "Md Solaiaman | Software Developer",
-  author: "Md Solaiman",
-  author_image: "/author.png",
-  position: "Full Stack Developer",
-  location: "Dhaka, Bangladesh",
+  title: "Rafael | Software Engineer",
+  author: "Rafael Maia",
+  author_image:  "../assets/author.png",
+  position: "Software Engineer",
+  location: "Zaandam, the Netherlands",
   headerTitle: "Md Rathik",
   slogan: "Let's start coding",
   description:
     "A tech enthusiast & self taught learner. Love to talk the way of tech.",
   language: "en-us",
   theme: "system", // system, dark or light
-  siteUrl: "https://rathik.dev",
+  siteUrl: "https://raf-maia.com",
   siteRepo: "#",
   siteLogo: "../assets/author.png",
   image: "~/assets/author.png",
   socialBanner: "/static/images/twitter-card.png",
-  email: "hello@rathik.dev",
-  github: "https://github.com/mdrathik",
-  githubUser: "mdrathik",
+  email: "xrafaoliveira@gmail.com",
+  github: "https://github.com/rafmaia92",
+  githubUser: "rafmaia92",
   twitter: "#",
-  twitter_user: "MDRT83716131",
+  twitter_user: "rafmaia92",
   stackoverflow: "#",
   youtube: "#",
-  linkedin: "#",
 };
 
 export default siteMetaInfo;
