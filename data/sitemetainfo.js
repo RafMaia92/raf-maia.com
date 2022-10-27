@@ -4,7 +4,7 @@ const siteMetaInfo = {
   author_image:  "../assets/author.png",
   position: "Software Engineer",
   location: "Zaandam, the Netherlands",
-  headerTitle: "Md Rathik",
+  headerTitle: "Rafael Maia",
   slogan: "Let's start coding",
   description:
     "A tech enthusiast & self taught learner. Love to talk the way of tech.",
